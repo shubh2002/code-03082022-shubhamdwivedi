@@ -1,2 +1,2 @@
-# code-03082022-shubhamdwivedi
-Python BMI Calculator Coding Challenge V6
+# Python BMI Calculator Coding Challenge V6
+#To code file use Python main.py
